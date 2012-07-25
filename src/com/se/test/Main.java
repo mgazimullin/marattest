@@ -14,6 +14,6 @@ public class Main {
 	private final static Logger log = LoggerFactory.getLogger(Main.class);
 
 	public static void main(String[] args) {
-		log.info("test1");
+		log.info("test12");
 	}
 }
